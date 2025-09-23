@@ -8,7 +8,7 @@ const RecentEvents = () => {
       title: "Inaugural Of IDC REVA Chapter 2025",
       date: "24-09-2025",
       attendees: 250,
-      image: "./static/firstevent.jpeg",
+      image: "/firstevent.jpeg",
       description: "Annual coding competition with participants from across India. Featured algorithmic challenges and innovative project showcases.",
       highlights: [
         "250+ participants from 50+ colleges",

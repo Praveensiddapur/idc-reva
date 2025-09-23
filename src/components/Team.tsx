@@ -6,7 +6,7 @@ const Team = () => {
     {
       name: "Dr. Ashwin Kumar U.M",
       role: "Director - School of CSE",
-      image: "./static/hodd.jpeg",
+      image: "/hodd.jpeg",
       bio: "",
       skills: [],
       social: {
@@ -18,7 +18,7 @@ const Team = () => {
      {
       name: "Prof. Satish G.C",
       role: "Faculty  Co-Ordinatorr",
-      image: "./static/saaaatishhh.jpeg",
+      image: "/saaaatishhh.jpeg",
       bio: "",
       skills: [],
       social: {
@@ -30,7 +30,7 @@ const Team = () => {
     {
       name: "Prof. Kiran M",
       role: "Faculty  Co-Ordinator",
-      image: "./static/kiraaaan.jpeg",
+      image: "/kiraaaan.jpeg",
       bio: "",
       skills:[] ,
       social: {
@@ -42,7 +42,7 @@ const Team = () => {
     {
       name: "Ananda Shankar",
       role: "Faculty Co-Ordinator",
-      image: "./static/ananda.jpeg",
+      image: "/ananda.jpeg",
       bio: "",
       skills:[] ,
       social: {
@@ -57,7 +57,7 @@ const Team = () => {
     {
       name: "Mohamed Saad",
       role: "President",
-      image: "./static/Saaaad.jpeg",
+      image: "/Saaaad.jpeg",
       bio: "Leading the vision and strategy for REVA IDC  along with gaining experience in data science",
       skills: ["Leadership", "Data Science", "Machine Learning"],
       social: {
@@ -69,7 +69,7 @@ const Team = () => {
     {
       name: "Joyprakash Kalita",
       role: "Vice President",
-      image: "./static/joyyyy.jpeg",
+      image: "/joyyyy.jpeg",
       bio: "Tech-geek with fluency in DevOps, ML, Deep Learning. Worked extensively on LLMs, NLP, and Foundational Models. Interested in Open Source contributions. Co-lead IDC's REVA Chapter along with core team",
       skills: ["Full-Stack Developer", "Data Analyst", "MLOps", "Pen-Testing"],
       social: {
@@ -81,7 +81,7 @@ const Team = () => {
     {
       name: "Satyam Gupta",
       role: "Secretary",
-      image: "./static/satyam.jpeg",
+      image: "/satyam.jpeg",
       bio: "Passionate about Artificial Intelligence, Data Science, and Hackathons. Experienced in building AI-driven solutions in healthcare, education, and real-time analytics ",
       skills:  ["Python", "R", "Machine Learning", "Deep Learning", "NLP", "Generative AI", "Data Science", "Hackathons", "Leadership"],
       social: {
@@ -93,7 +93,7 @@ const Team = () => {
     {
       name: "Praveen Siddapur",
       role: "Technical Head",
-      image: "./static/praveen.jpeg",
+      image: "/praveen.jpeg",
       bio: "Designing, developing, and optimizing applications that solve real-world problems",
       skills: ["VFx", "Full-Stack Developer", "DataBase","DSA"],
       social: {
@@ -105,7 +105,7 @@ const Team = () => {
     {
       name: "Om Shukla",
       role: "Event co-ordinator",
-      image: "./static/ommm.jpeg",
+      image: "/ommm.jpeg",
       bio: "Driving growth through strategic marketing initiatives.",
       skills: ["Digital Marketing", "Branding", "Hackathons"],
       social: {
@@ -117,7 +117,7 @@ const Team = () => {
     {
       name: "Mohammed Touihd",
       role: "Treasurer",
-      image: "./static/IMG_8494.jpg",
+      image: "/IMG_8494.jpg",
       bio: "Managing financial operations with precision and integrity.",
       skills: ["Financial Analysis", "Budgeting", "Accounting"],
       social: {
@@ -129,7 +129,7 @@ const Team = () => {
      {
       name: "Somesh Talligeri",
       role: "Core Member",
-      image: "./static/somesh.jpeg",
+      image: "/somesh.jpeg",
       bio: "Managing team operations with precision and integrity.",
       skills: [ "Budgeting", "Accounting"],
       social: {
@@ -141,7 +141,7 @@ const Team = () => {
      {
       name: "Faisal Attar",
       role: "Core Memeber",
-      image: "./static/faisal.jpeg",
+      image: "/faisal.jpeg",
       bio: "Event manager",
       skills: [ "Budgeting", "Accounting"],
       social: {
