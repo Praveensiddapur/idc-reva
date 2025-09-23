@@ -42,7 +42,7 @@ const Team = () => {
     {
       name: "Ananda Shankar",
       role: "Faculty Co-Ordinator",
-      image: "/ananda.jpeg",
+      image: "/Ananda.jpeg",
       bio: "",
       skills:[] ,
       social: {
@@ -57,7 +57,7 @@ const Team = () => {
     {
       name: "Mohamed Saad",
       role: "President",
-      image: "/Saaaad.jpeg",
+      image: "/saaaad.jpeg",
       bio: "Leading the vision and strategy for REVA IDC  along with gaining experience in data science",
       skills: ["Leadership", "Data Science", "Machine Learning"],
       social: {
@@ -117,7 +117,7 @@ const Team = () => {
     {
       name: "Mohammed Touihd",
       role: "Treasurer",
-      image: "/IMG_8494.jpg",
+      image: "/IMG_8494.JPG",
       bio: "Managing financial operations with precision and integrity.",
       skills: ["Financial Analysis", "Budgeting", "Accounting"],
       social: {
