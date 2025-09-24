@@ -57,7 +57,7 @@ const Team = () => {
     {
       name: "Mohamed Saad",
       role: "President",
-      image: "/saaaad.jpeg",
+      image: "/president.jpeg",
       bio: "Leading the vision and strategy for REVA IDC  along with gaining experience in data science",
       skills: ["Leadership", "Data Science", "Machine Learning"],
       social: {
@@ -115,7 +115,7 @@ const Team = () => {
       }
     },
     {
-      name: "Mohammed Touihd",
+      name: "Mohammed Touhid",
       role: "Treasurer",
       image: "/IMG_8494.JPG",
       bio: "Managing financial operations with precision and integrity.",
