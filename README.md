@@ -1,1 +1,1 @@
-this is our IDC club Websitee REVA UNiversity
+This is our IDC club Websitee REVA UNiversity
